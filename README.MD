@@ -1,5 +1,5 @@
 # Sobre  
-CRUD básico em java utilizando Spring Boot
+CRUD básico em java utilizando Spring Boot.
 
 # Funcionalidades
 - Criar produto;  
